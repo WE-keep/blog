@@ -1,2 +1,2 @@
-# blog
-Barton's blog
+# Blog
+Barton's Blog
